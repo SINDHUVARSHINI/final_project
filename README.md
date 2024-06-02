@@ -1,4 +1,4 @@
-Predictive Crop Yield Analytics Platform [Jupyter Notebook, Visual Studio Code, Like Pandas, Scikit-learn, and TensorFlow Data 
-Validation, GridSearchCV] 
-•	Pioneered a Machine Learning model using Naive Bayes and Classifier algorithms, achieving a 50% increase in crop outcome prediction accuracy. 
-•	Developed a Machine Learning model with Naive Bayes and Classifier algorithms, elevating crop outcome prediction accuracy by 50% through real-time data analysis. 
+Farmers Friend App
+•	Enhanced budget management for farmers by 20% and facilitating 15% more efficient decision-making through real-time data tracking. 
+•	Analyzed extensive agricultural data and implemented agile methodologies, resulting in a 10-15% improvement in crop health and productivity, and contributing to a 20% increase in crop yield and an 18% boost in crop quality. 
+
